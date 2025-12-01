@@ -4,7 +4,7 @@ This project downloads historical price data for any stock or crypto asset using
 
 All results are saved automatically and plotted using matplotlib.
 
-🚀 Features
+## Features
 
 Download OHLCV data using yfinance
 
@@ -30,7 +30,7 @@ Volatility Curve (always shown)
 
 Handles invalid tickers & date errors gracefully
 
-📦 Installation
+# Installation
 
 Install required packages:
 
@@ -57,7 +57,7 @@ End date
 
 2023-12-31
 
-📊 Output
+# Output
 
 For each ticker, the script will:
 
@@ -84,14 +84,14 @@ Average daily return
 
 Annualized volatility
 
-🗂️ Project Structure
+## Project Structure
 main.py
 README.md
 AAPL_historical.csv
 BTC-USD_historical.csv
 ...
 
-❤️ Notes
+Notes
 
 Requires the internet (Yahoo Finance data)
 
