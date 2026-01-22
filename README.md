@@ -24,6 +24,10 @@ Displays 3 charts for each ticker:
 
 Price + Moving Averages
 
+##License 
+This Project is licensed under the MIT License-see the LICENSE file for details
+
+
 Daily Returns
 
 Volatility Curve (always shown)
